@@ -2,7 +2,6 @@
 For Florian
 """
 import math
-import os
 
 WORD = "ABRACADABRA"
 OUTPUT = "abracadabra.txt"
